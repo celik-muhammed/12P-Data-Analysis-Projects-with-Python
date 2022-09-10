@@ -8,13 +8,6 @@
 | [01. Data_Analysis-Autoscout-Capstone_Project/](./Data_Analysis-Autoscout-Capstone_Project/) | [](#) |
 | [02. US-Citizens-EDA-Project-Data-Analysis.ipynb](./US-Citizens-EDA-Project-Data-Analysis.ipynb) | [](#) |
 | [03. Credit Score Classification Data Cleaning Project Solution.ipynb](./Credit-Score-Classification-Data-Cleaning-Project-Solution.ipynb) | [Kaggle: Credit Score Classification Data Cleaning Project](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-data-cleaning-project/notebook) |
-| Machine Learning Project | Kaggle | Tableau |
-| 1. Supervised learning | Kaggle | Tableau |
-| [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project) | [](#) |
-| [02. ML-Soldiers-Race-Classification](https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project) | [](#) |
-| 2. Unsupervised learning | Kaggle | Tableau |
-| [01. ML-Customers-Segmentation-Cluestering-Analysis](https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project) | [](#) |
-| [99. draft ](./draft ) | [](#) |
 
 
 
