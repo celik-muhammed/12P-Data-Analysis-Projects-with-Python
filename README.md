@@ -5,7 +5,7 @@
 
 | <h2 align='center'>Data Analysis Project</h2> | Kaggle | Tableau |
 |:--|:-:|:-:|
-| [01. Data_Analysis-Autoscout-Capstone_Project](./Data_Analysis-Autoscout-Capstone_Project/blob/master/README.md) | [](#) |
+| [01. Data_Analysis-Autoscout-Capstone_Project](./Data_Analysis-Autoscout-Capstone_Project/README.md) | [](#) |
 | [02. US-Citizens-EDA-Project-Data-Analysis.ipynb](./US-Citizens-EDA-Project-Data-Analysis.ipynb) | [](#) |
 | [03. Credit Score Classification Data Cleaning Project Solution.ipynb](./Credit-Score-Classification-Data-Cleaning-Project-Solution.ipynb) | [Kaggle: Credit Score Classification Data Cleaning Project](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-data-cleaning-project/notebook) |
 
