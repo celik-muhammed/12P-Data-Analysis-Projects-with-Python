@@ -3,7 +3,7 @@
 
 ### [Go to Home Page](https://github.com/celik-muhammed)
 
-| Data Analysis Project | Kaggle | Tableau |
+| <h2 align='center'>Data Analysis Project</h2> | Kaggle | Tableau |
 |:--|:-:|:-:|
 | [01. Data_Analysis-Autoscout-Capstone_Project/](./Data_Analysis-Autoscout-Capstone_Project/) | [](#) |
 | [02. US-Citizens-EDA-Project-Data-Analysis.ipynb](./US-Citizens-EDA-Project-Data-Analysis.ipynb) | [](#) |
