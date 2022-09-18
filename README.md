@@ -17,7 +17,7 @@
 [12CS-Data-Analysis-Case-Studies-with-Python](https://github.com/celik-muhammed/12CS-Data-Analysis-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
-| <h2 alin='center'>Data Analysis Case Studies with Python</h2> |
+| <h2 alin='center'>Data Analysis Projects with Python</h2> |
 |:--|
 | GitHub |
 | [01. Data_Analysis-Autoscout-Capstone_Project](./Data_Analysis-Autoscout-Capstone_Project/README.md) |
