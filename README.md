@@ -20,9 +20,9 @@
 | <h2 alin='center'>Data Analysis Projects with Python</h2> |
 |:--|
 | GitHub |
-| [01. DAwPy-US-Citizens-Analyze-EDA-Project](./DAwPy-US-Citizens-Analyze-EDA-Project/DAwPy-US-Citizens-Analyze-EDA-Project.ipynb) | 
-| [02. DAwPy-AutoScout-Capstone-Project](./DAwPy-AutoScout-Capstone-Project/) |
-| [03. DAwPy-Credit-Score-Classification-Data-Cleaning-Project](./DAwPy-Credit-Score-Classification-Data-Cleaning-Project/DAwPy-Credit-Score-Classification-Data-Cleaning-Project.ipynb) |
+| [01. DAwPy-US-Citizens-Analyze-EDA-Project](./01-DAwPy-US-Citizens-Analyze-EDA-Project/DAwPy-US-Citizens-Analyze-EDA-Project.ipynb) | 
+| [02. DAwPy-AutoScout-Capstone-Project](./02-DAwPy-AutoScout-Capstone-Project/) |
+| [03. DAwPy-Credit-Score-Classification-Data-Cleaning-Project](./03-DAwPy-Credit-Score-Classification-Data-Cleaning-Project/DAwPy-Credit-Score-Classification-Data-Cleaning-Project.ipynb) |
 | Kaggle |
 | [01. Credit Score Classification Data Cleaning Project](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-data-cleaning-project) |
 | [99. draft ](./draft ) | [](#) |
