@@ -24,12 +24,4 @@
 | Capstone Projects |
 | [02. AutoScout Car Price Capstone Data Analysis Project](./02-DAwPy-AutoScout-Capstone-Project/) |
 
-| <h2 align='center'>Kaggle</h2> |
-|:--|
-| [01. 01 Credit Score Classification Part:1 Data Cleaning](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-part-1-data-cleaning) |
-| [Credit Score Classification Clean Data Release](https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification) |
-| [01. 02 Credit Score Classification Part:2 LogReg-RF-XGB](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-part-2-logreg-rf-xgb) |
-| [01. 03 Credit Score Classification Part:3 FeatureS-Deploy Ongoing](#) |
-| [99. draft ](./draft ) | [](#) |
-
 </div>
