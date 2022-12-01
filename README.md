@@ -19,12 +19,17 @@
 
 | <h2 alin='center'>Data Analysis Projects with Python</h2> |
 |:--|
-| GitHub |
-| [01. DAwPy-US-Citizens-Analyze-EDA-Project](./01-US-Citizens-EDA-Data-Analysis-Project/US-Citizens-EDA-Data-Analysis-Project.ipynb) | 
-| [02. DAwPy-AutoScout-Capstone-Project](./02-DAwPy-AutoScout-Capstone-Project/) |
-| [03. DAwPy-Credit-Score-Classification-Data-Cleaning-Project](./03-DAwPy-Credit-Score-Classification-Data-Cleaning-Project/DAwPy-Credit-Score-Classification-Data-Cleaning-Project.ipynb) |
+| Exploratory Data Analysis Projects |
+| [01. US Citizens EDA Data Analysis Project](./01-US-Citizens-EDA-Data-Analysis-Project/US-Citizens-EDA-Data-Analysis-Project.ipynb) | 
+| Capstone Projects |
+| [02. AutoScout Car Price Capstone Data Analysis Project](./02-DAwPy-AutoScout-Capstone-Project/) |
+
 | Kaggle |
-| [01. Credit Score Classification Data Cleaning Project](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-data-cleaning-project) |
+|:--|
+| [01. Credit Score Classification Part:1 Data Cleaning](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-part-1-data-cleaning) |
+| [02. Credit Score Classification Part:2 LogReg-RF-XGB](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-part-2-logreg-rf-xgb) |
+| [03. Credit Score Classification Part:3 FeatureS-Deploy Ongoing](#) |
+| [Clean Data Release](https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification) |
 | [99. draft ](./draft ) | [](#) |
 
 </div>
