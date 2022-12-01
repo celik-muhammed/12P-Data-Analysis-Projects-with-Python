@@ -17,15 +17,15 @@
 [12CS-Data-Analysis-Case-Studies-with-Python](https://github.com/celik-muhammed/12CS-Data-Analysis-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
-| <h2 alin='center'>Data Analysis Projects with Python</h2> |
-|:-:|
+| <h2 align='center'>Data Analysis Projects with Python</h2> |
+|:--|
 | Exploratory Data Analysis Projects |
 | [01. US Citizens EDA Data Analysis Project](./01-US-Citizens-EDA-Data-Analysis-Project/US-Citizens-EDA-Data-Analysis-Project.ipynb) | 
 | Capstone Projects |
 | [02. AutoScout Car Price Capstone Data Analysis Project](./02-DAwPy-AutoScout-Capstone-Project/) |
 
-| Kaggle |
-|:-:|
+| <h2 align='center'>Kaggle</h2> |
+|:--|
 | [01. 01 Credit Score Classification Part:1 Data Cleaning](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-part-1-data-cleaning) |
 | [Credit Score Classification Clean Data Release](https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification) |
 | [01. 02 Credit Score Classification Part:2 LogReg-RF-XGB](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-part-2-logreg-rf-xgb) |
