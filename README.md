@@ -14,7 +14,7 @@
 
 <h3 align='right'>
   
-[12CS-Data-Analysis-Case-Studies-with-Python](https://github.com/celik-muhammed/12CS-Data-Analysis-Case-Studies-with-Python/blob/master/README.md)
+[12CS Data Analysis Case Studies with Python](https://github.com/celik-muhammed/12CS-Data-Analysis-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
 
